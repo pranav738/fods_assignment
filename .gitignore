@@ -15,3 +15,14 @@ wheels/
 
 # Editor backup files
 *~
+
+test_coll.py
+read_features.py
+
+
+bangalore 2022-01-01 to 2024-08-09 merged.csv
+enrich_traffic_with_weather.py
+recommended_features.md
+holidays.md
+Banglore_traffic_Dataset.csv
+merge_datasets.py
