@@ -9,9 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-#data to be cleaned and merged later
-"bangalore 2022-01-01 to 2024-08-09 merged.csv"
-
 
 # Editor backup files
 *~
@@ -26,3 +23,9 @@ recommended_features.md
 holidays.md
 Banglore_traffic_Dataset.csv
 merge_datasets.py
+
+
+#shit
+raw_eda_interpretation.md
+eda.md
+myanal.md
