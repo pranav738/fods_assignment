@@ -29,3 +29,9 @@ merge_datasets.py
 raw_eda_interpretation.md
 eda.md
 myanal.md
+encode_enriched_dataset.py
+encoding_strategy.md
+verify_encoding.md
+
+#llm context
+session2.md
