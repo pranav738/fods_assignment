@@ -41,3 +41,5 @@ session2.md
 
 filter_bangalore_encoded_features.py
 filter_encoded_dataset.py
+src/.DS_Store
+src/notebooks/outputs/
